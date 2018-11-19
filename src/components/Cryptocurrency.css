@@ -1,0 +1,51 @@
+.cryptocurrency {
+    flex-grow: 1;
+    padding: 1rem 2rem 1rem;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    min-width: 11rem;
+    border: solid 1px rgba(0, 0, 0, 0.05);
+    box-shadow: #454a75 3px 4px;
+}
+.cryptocurrency p {
+    color: rgba(0, 0, 0, 0.75);
+    font-size: 12px;
+    margin: 0;
+}
+.cryptocurrency h1 {
+    margin: 2px;
+}
+p.cryptocurrency-name {
+    font-weight: 700;
+    font-size: 20px;
+    margin: 2px;
+}
+.cryptocurrency:nth-child(2) {
+    background-color: #31be8f;
+}
+.cryptocurrency:nth-child(3) {
+    background-color: #be31ab;}
+.cryptocurrency:nth-child(4) {
+    background-color: #7331be;
+}
+.cryptocurrency:nth-child(5) {
+    background-color: #3162be;
+}
+.cryptocurrency:nth-child(6) {
+    background-color: #3dbe31;
+}
+.cryptocurrency:nth-child(7) {
+    background-color: #bebc31;
+}
+.cryptocurrency:nth-child(8) {
+    background-color: #be6531;
+}
+.cryptocurrency:nth-child(9) {
+    background-color: #df1182;
+}
+.cryptocurrency:nth-child(10) {
+    background-color: #765ee2;
+}
+.bitcoin {
+    background-color: #e99733;
+}

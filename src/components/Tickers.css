@@ -1,0 +1,14 @@
+.tickers {
+    margin: auto;
+    max-width: 900px;
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+li {
+    margin: 10px;
+}
