@@ -50,7 +50,8 @@ p.cryptocurrency-name {
     background-color: #31be8f;
 }
 .cryptocurrency:nth-child(12) {
-    background-color: #be31ab;}
+    background-color: #bebc31;
+}
 .bitcoin {
     background-color: #e99733;
 }
