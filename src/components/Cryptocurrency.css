@@ -20,10 +20,10 @@ p.cryptocurrency-name {
     font-size: 20px;
     margin: 2px;
 }
-.cryptocurrency:nth-child(2,11) {
+.cryptocurrency:nth-child(2) {
     background-color: #31be8f;
 }
-.cryptocurrency:nth-child(3, 12) {
+.cryptocurrency:nth-child(3) {
     background-color: #be31ab;}
 .cryptocurrency:nth-child(4) {
     background-color: #7331be;
@@ -46,6 +46,11 @@ p.cryptocurrency-name {
 .cryptocurrency:nth-child(10) {
     background-color: #765ee2;
 }
+.cryptocurrency:nth-child(11) {
+    background-color: #31be8f;
+}
+.cryptocurrency:nth-child(12) {
+    background-color: #be31ab;}
 .bitcoin {
     background-color: #e99733;
 }
